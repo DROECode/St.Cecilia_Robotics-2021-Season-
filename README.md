@@ -4,7 +4,7 @@ St. Cecilia Lego Robotics
 
 Community of contributors through GitHub are welcome and appreciated.  
 
-Please post/pull into this repository as with designs, innovations, and or updates to the materials that can be used to improve the studen's enjoyment and understanding of robotics.
+Please post/pull into this repository as with designs, innovations, and or updates to the materials that can be used to improve the student's enjoyment and understanding of robotics.
 
 This repository was created and is maintained by a father of some great kids and for the St. Cecilia of Beaverton Oregon robotics program.   The coaching staff will evolve over time as will the student participants.   
 
