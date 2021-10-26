@@ -27,7 +27,7 @@ We intend this repository to be an open collection of programming code and sessi
 
 The coaching staff will manage the overall organization, documentation and maintenance of the repository while the student participants will code the majority of the original programs.   
 
-For each challenge, the team will experiment with ways to program and control the robots using both python and scratch programming through the LEGO Mindstorms interfaces.
+For each challenge, the team will experiment with ways to program and control the robots using both python and scratch programming through the LEGO MINDSTORMS interfaces.
 
 We intend to increase our sharing from GitHub into YouTube with copies of our builds, code and challenge solutions.  
 
