@@ -1,0 +1,8 @@
+This week is intended to measure and discuss how to best build a robot that does all we need.  
+
+1. Snack and Look at the field
+2. Wheel rotations, measures and distances 
+3. Test Robot session - https://education.lego.com/en-us/lessons/prime-extra-resources/going-the-distance#lesson-plan 
+4. Competition Robot Innovation - Open discussion 
+5. Innovation project continue
+
